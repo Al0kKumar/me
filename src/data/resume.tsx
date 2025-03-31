@@ -15,6 +15,7 @@ export const DATA = {
   skills: [
     "C",
     "C++",
+    "Java",
     "Python",
     "Go",
     "Typescript",
@@ -23,9 +24,11 @@ export const DATA = {
     "ShadCN",
     "Next.js",
     "Node.js",
+    "Express",
     "Postgres",
     "Prisma",
     "MongoDB",
+    "Mongoose",
     "Docker",
     "Git"
   ],
