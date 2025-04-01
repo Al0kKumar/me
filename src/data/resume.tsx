@@ -20,6 +20,7 @@ export const DATA = {
     "Go",
     "Typescript",
     "React",
+    "React Native",
     "Tailwind CSS",
     "ShadCN",
     "Next.js",
@@ -30,10 +31,11 @@ export const DATA = {
     "MongoDB",
     "Mongoose",
     "Docker",
+    "Android Studio",
     "Git"
   ],
   navbar: [
-    { href: "/", icon: HomeIcon, label: "Home" },
+    { href: "https://drive.google.com/file/d/1QvIk8b2jhz3sdCjzUWuvLfK-YI1_7AXe/view?usp=sharing", icon: HomeIcon, label: "Resume" },
   ],
   contact: {
     email: "mishraalok189381@gmail.com",
@@ -55,7 +57,7 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://x.com/Al0k_Mishra_",
+        url: "https://x.com/Al0k619",
         icon: Icons.x,
 
         navbar: true,
