@@ -11,7 +11,7 @@ export const DATA = {
   "Software Engineer.",
   summary:
 "I'm a software developer driven by curiosity and a relentless grind. I love building, experimenting, and pushing limits to create impactful products. Always learning, always improving—it's all about the process. 🚀",
-  avatarUrl: "/me.png",
+  avatarUrl: "/me.jpeg",
   skills: [
     "C",
     "C++",
@@ -20,7 +20,6 @@ export const DATA = {
     "Go",
     "Typescript",
     "React",
-    "React Native",
     "Tailwind CSS",
     "ShadCN",
     "Next.js",
@@ -31,7 +30,6 @@ export const DATA = {
     "MongoDB",
     "Mongoose",
     "Docker",
-    "Android Studio",
     "Git"
   ],
   navbar: [
